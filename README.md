@@ -87,7 +87,7 @@ FROM bank_loan_data;
 
 ## 📷 Dashboard Preview
 
-(Add screenshots here)
+(Added screenshots here)
 
 ---
 
